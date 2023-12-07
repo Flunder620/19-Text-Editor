@@ -4,22 +4,11 @@
 
 ## Description
 
-
+This application allows the user to write in a text editor that saves offline and able to retrieve from the server when connected to the internet.
 
 ## Installation
 
-
-
-## Usage
-
-
-
-## Mock-Up
-
-The following image shows the web application's appearance and functionality: 
-![This shows what home page will look like](./assets/images/)
-
-## Deployment Link
+Nothing to install
 
 
 
@@ -29,18 +18,8 @@ The following image shows the web application's appearance and functionality:
 
 ## Built With
 
+- Javascript
 
+-Express.js
 
-## License
-
-
-
-## Badges
-
-
-
-## How to Contribute
-
-
-
-## Tests
+-Webpack
